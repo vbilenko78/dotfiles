@@ -1,6 +1,6 @@
 [user]
-  name = Jim O'Kelly (rubycasts.io)
-  email = thatrubylove@gmail.com 
+  name = Vladimir Bilenko
+  email = vbilenko@yahoo.com
 [color]
   diff = auto
   status = auto
@@ -25,6 +25,6 @@
 [rerere]
   enabled = 1
 [github]
-  user = thatrubylove
+  user = vbilenko78
 [merge]
   ff = only
